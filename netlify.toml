@@ -1,0 +1,2 @@
+[images]
+  remote_images = ["https://glowing-semolina-3779ba.netlify.app/.*", "https://animals.more-images.com/[bcr]at/.*", "https://images.unsplash.com/.*"]
